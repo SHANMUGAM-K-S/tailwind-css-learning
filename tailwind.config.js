@@ -2,6 +2,7 @@
 
 module.exports={
     content:["*"],
+    darkMode:"class",
     theme:{
         extend:{},
         container:{
